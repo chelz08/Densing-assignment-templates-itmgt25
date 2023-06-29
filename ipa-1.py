@@ -1,8 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
+'''Individual Programming Assignment 1
 
-# In[ ]:
+20 points
 
+This assignment will develop your basic familiarity with Python.
+'''
 
 def savings(gross_pay, tax_rate, expenses):
     '''Savings.
