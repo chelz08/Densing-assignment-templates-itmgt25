@@ -249,7 +249,7 @@ def scytale_cipher (message,shift):
 
     return encoded_message
         
-scytale_cipher ("ALGORITHMS_ARE_IMPORTANT",8)
+
 
 def scytale_decipher(message, shift):
     '''Scytale De-cipher.
